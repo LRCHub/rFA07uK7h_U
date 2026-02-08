@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "white chocolate",
+  "base_artist": "icn_oO",
+  "createdAt": "2026-02-08T09:13:03.915595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Chocolate Space Egg",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/01_White_Chocolate_Space_Egg_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Chocolate & Group X",
+      "artist": "Group X - Arabian Rap Sensations",
+      "has_synced": false,
+      "path": "select/02_White_Chocolate_&_Group_X_Group_X_-_Arabian_Rap_Sensations.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Chocolate & Group X",
+      "artist": "Gröûp X",
+      "has_synced": false,
+      "path": "select/03_White_Chocolate_&_Group_X_Gröûp_X.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Chocolate & Group X",
+      "artist": "Group X - Arabian Rap Sensations",
+      "has_synced": false,
+      "path": "select/04_White_Chocolate_&_Group_X_Group_X_-_Arabian_Rap_Sensations.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "white chocolate",
+      "artist": "icn_oO",
+      "has_synced": false,
+      "path": "select/pl_01_white_chocolate_icn_oO.txt"
+    }
+  ]
+}
